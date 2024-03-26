@@ -3,7 +3,7 @@
 If you want to test the game, please go to my itch.io page : [Al3xics](https://al3xics.itch.io/). Download the zip file named **"Claire School"**, decompress, and launch the .exe file.<br>
 <br>
 
-This project was madein one week, and is about **trying the Unity API**.<br>
+This project was made in one week, and is about **trying the Unity API**.<br>
 <br>
 
 ### Have fun !!
